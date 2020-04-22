@@ -1,0 +1,158 @@
+.container {
+  text-align: center;
+  background-color: F3F3F3;
+}
+
+
+.row {
+  display: inline-block;
+}
+
+.welcome {
+margin: 65px;
+text-align: center;
+display: inline-block;
+width: 80%;
+height:20%;
+}
+
+.modal-content {
+  width: 650px;
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+.modal-body {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: flex-start;
+  color: gray;
+  padding: 0px;
+}
+
+.chart {
+ height: 110px;
+ width: 110px;
+ border-radius: 15%;
+ margin-left: 20px;
+}
+
+.body-main-flex {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: flex-start;
+  text-align: left;
+  width: 70%;
+}
+
+.title {
+  text-align: left;
+  padding-left: 35px;
+  margin: 15px 0px 0px 0px;
+  font-size: 12px;
+}
+
+.search-message{
+  width: 350px;
+  margin: 5px 0px 25px 10px;
+}
+
+.message {
+  width: 200px;
+  height: 20px;
+  border: none;
+}
+
+input {
+  width: 180px;
+}
+
+.countdown {
+
+}
+
+.descriptions-text {
+  text-align: left;
+  padding-left: 35px;
+}
+
+.date-tag {
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  background-color: white;
+  margin: 10px;
+  margin-right: 5px;
+  color: inherit;
+}
+
+.date-tag-two {
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  background-color: white;
+  margin: 10px;
+  margin-right: 50px;
+  color: inherit;
+}
+
+.modal-dialog {
+  width: 100%;
+}
+
+
+.dropdowns {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  text-align: left;
+}
+
+.drop-one {
+  width: 50%;
+  padding-left: 15px;
+}
+
+.drop-two {
+  width: 10%;
+  text-align: center;
+  padding-right: 15px;
+  padding-top: 25px;
+}
+
+#arrow{
+  padding-top: 8px;
+  padding-right: 8px;
+}
+.drop-three {
+  width: 40%;
+  padding-right: 15px;
+}
+.modal-footer {
+  padding: 0px;
+  background-color: #F3F3F3 !important;
+}
+
+
+.template {
+ margin-right: 160px;
+ background-color: #F3F3F3;
+ border-color: #F3F3F3;
+}
+
+
+#d-down {
+  border: 3px lightgray !important;
+  background-color: white;
+}
+
+#wipeout {
+  background-color: #F3F3F3 !important;
+}
+
+#create {
+  margin-right: 12px;
+  background-color: lightgray;
+}
